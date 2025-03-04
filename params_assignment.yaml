@@ -24,8 +24,8 @@ forward_expansion: 2 #4 #4
 dropout_rate: 0.2
 learning_rate: 0.0005
 
-num_epochs: 300 ### 800 you can try 200 or 300
+num_epochs: 150 ### 800 you can try 200 or 300
 
 ErrorLogRate: 2 #2 ### 10 # how often we log the errors 
-checkpoint_interval: 300 ###50 # 25 #how often we make a checkpoint. Originally 100
+checkpoint_interval: 150 ###50 # 25 #how often we make a checkpoint. Originally 100
 
